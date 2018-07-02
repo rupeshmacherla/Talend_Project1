@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_SeCrMX4PEeie-vXgIvy1eg" label="Accuracy_Project" description="Testing project" language="java" technicalLabel="ACCURACY_PROJECT" creationDate="2018-07-02T21:02:54.014+0530" author="_SeCrMn4PEeie-vXgIvy1eg" productVersion="Talend Real-time Big Data Platform-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/rupeshmacherla/Talend_Project1&quot;,&quot;login&quot;:&quot;rupeshmacherla&quot;,&quot;passwd&quot;:&quot;WoSQe/43WpryROFZioKE2A==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+  <TalendProperties:Project xmi:id="_SeCrMX4PEeie-vXgIvy1eg" label="Accuracy_Project" description="Testing project" language="java" technicalLabel="ACCURACY_PROJECT" creationDate="2018-07-02T21:02:54.014+0530" author="_SeCrMn4PEeie-vXgIvy1eg" productVersion="Talend Real-time Big Data Platform-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/rupeshmacherla/Talend_Project1&quot;,&quot;login&quot;:&quot;rupeshmacherla&quot;,&quot;passwd&quot;:&quot;WoSQe/43WpryROFZioKE2A==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_SqkEQH4PEeie-vXgIvy1eg" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_SqkrUH4PEeie-vXgIvy1eg" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_SqkrUX4PEeie-vXgIvy1eg" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_SqbhYH4PEeie-vXgIvy1eg" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_SqbhYX4PEeie-vXgIvy1eg" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_SqbhYn4PEeie-vXgIvy1eg" label="validated" code="VAL"/>
     <migrationTask xmi:id="_SoluUH4PEeie-vXgIvy1eg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SoluUX4PEeie-vXgIvy1eg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SoluUn4PEeie-vXgIvy1eg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
